@@ -1,0 +1,10 @@
+
+l
+java:S1192""QDefine a constant instead of duplicating this literal "Ticket not found" 3 times.(‚¨üÍÿÿÿÿÿ
+|
+java:S1488?"_Immediately return this expression instead of assigning it to the temporary variable "tickets".(°ýþØ8¾ƒ‡Þ¾1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó˜ªðûÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ

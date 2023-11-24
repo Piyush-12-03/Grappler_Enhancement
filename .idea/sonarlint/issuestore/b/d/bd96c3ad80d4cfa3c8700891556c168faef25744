@@ -1,0 +1,6 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¶›8Œ è„¿1
+v	java:S116$"URename this field "start_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à§ßúýÿÿÿÿ8• è„¿1
+o	java:S116%"SRename this field "end_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢óî›8– è„¿1
+]	java:S1259"<This block of commented-out lines of code should be removed.(Ù¡ËÝûÿÿÿÿ8Ó¹è„¿1
+X	java:S125="<This block of commented-out lines of code should be removed.(éØÄš8¢ è„¿1

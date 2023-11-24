@@ -1,0 +1,46 @@
+
+`	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(‚ˆÅøÿÿÿÿ
+`	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(· €ûÿÿÿÿ
+`	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(×ôÕıÿÿÿÿ
+`	java:S112n"FDefine and throw a dedicated exception instead of using a generic one.(×ôÕıÿÿÿÿ
+a	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.(üâ°¡ÿÿÿÿÿ
+a	java:S112Â"FDefine and throw a dedicated exception instead of using a generic one.(†Š¼Áşÿÿÿÿ
+h	java:S112Ò"FDefine and throw a dedicated exception instead of using a generic one.(×ôÕıÿÿÿÿ8­ƒŞ¾1
+‚
+java:S1192a"`Define a constant instead of duplicating this literal "Failed to retrieve the tickets." 3 times.(×ôÕıÿÿÿÿ8­­ƒŞ¾1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²´Ç
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ
+h
+java:S62044"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+n
+java:S21398"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+;
+java:S1452G"&Remove usage of generic wildcard type.(¹£É{
+n
+java:S2139L"XEither log this exception and handle it, or rethrow it with some contextual information.(ÔÉ¥®
+n
+java:S2139O"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+n
+java:S2139_"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+n
+java:S2139l"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+A
+java:S1452y"&Remove usage of generic wildcard type.(Ë«íúÿÿÿÿ
+o
+java:S2139¨"XEither log this exception and handle it, or rethrow it with some contextual information.(íĞĞÛ
+o
+java:S2139«"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+o
+java:S2139½"XEither log this exception and handle it, or rethrow it with some contextual information.(íĞĞÛ
+o
+java:S2139À"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+v
+java:S2139Ğ"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾8ñ³ƒŞ¾1
+^
+java:S1128"ARemove this unused import 'com.example.grappler.Entity.Projects'.(Õ€è8ù±€ƒ¿1
+c
+java:S1128
+"ARemove this unused import 'com.example.grappler.dto.ProjectsDTO'.(†Å»•úÿÿÿÿ8ú±€ƒ¿1

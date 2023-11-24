@@ -1,0 +1,10 @@
+
+…
+java:S14884"cImmediately return this expression instead of assigning it to the temporary variable "userTickets".( ©‹ìøÿÿÿÿ8Ÿù«ÿ¿1
+…
+java:S14888"cImmediately return this expression instead of assigning it to the temporary variable "userTickets".( ©‹ìøÿÿÿÿ8ï“¬ÿ¿1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó˜ªğûÿÿÿÿ8Şîóà¾1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8óîóà¾1
+‚
+java:S41447"eUpdate this method so that its implementation is not identical to "getUsersDroppedTicket" on line 51.(äêÚ8¸³¬ÿ¿1
